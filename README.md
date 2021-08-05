@@ -4,9 +4,13 @@ Project Name: Predicting Employee Attrition using Random Forest Algorithm
 
 Team Members:
 MEERA KRISHNAKUMAR
+
 V RAGHAV ANAND
+
 PARVATHY AJ
+
 S. SAI SREELEKHA
+
 P. SRI SNEHA KARTHIKA
 
 Project Demo Link: https://drive.google.com/file/d/1VSfaNChRvvPfQey9eADOP4M--IA0-mRW/view?usp=sharing
